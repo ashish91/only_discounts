@@ -1,1 +1,1 @@
-# only_discounts
+# OnDisco
